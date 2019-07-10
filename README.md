@@ -129,7 +129,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Tips and Tricks
 
-- Cyclical Learning Rate [[PyTorch](pytorch_ipynb/tricks/cyclical-learning-rate.ipynb)]
+- [x] Cyclical Learning Rate [[PyTorch](pytorch_ipynb/tricks/cyclical-learning-rate.ipynb)]
 
 
 
